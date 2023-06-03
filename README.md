@@ -21,6 +21,4 @@ The result will be displayed on your screen.
 ## Snapshots
 ![Home Screen](https://i.imgur.com/sNXaAjx.png)
 
-![Estimate Button](https://i.imgur.com/zXd2p4P.png)
-
-![Output](https://i.imgur.com/XevyHaH.png)
+![Output](https://i.imgur.com/uCj7c65.png)
