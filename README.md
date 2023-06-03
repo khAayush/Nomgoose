@@ -20,5 +20,4 @@ The result will be displayed on your screen.
 
 ## Snapshots
 ![Home Screen](https://i.imgur.com/sNXaAjx.png)
-
 ![Output](https://i.imgur.com/uCj7c65.png)
