@@ -1,0 +1,74 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+.body, html {
+    background-color: #121316;
+    color: white;
+    scrollbar-width: none;
+}
+
+.container {
+    margin: auto 15vw;
+    padding: 20px;
+}
+  
+.container textarea {
+    background-color: #1e2025;
+    color: white;
+    border: 1px solid white;
+    padding: 1vw;
+    outline: none;
+    font-family: 'Atkinson Hyperlegible', sans-serif;
+    font-size: 1.1vw;
+    resize: none;
+    text-align: justify;
+}
+
+.container textarea::-webkit-scrollbar {
+        width: 0.5vw;
+        display: block;
+}
+    
+.container textarea::-webkit-scrollbar-track {
+        display: none;
+}
+    
+.container textarea::-webkit-scrollbar-thumb {
+        background: #7289DA;
+        border-radius: 100vw;
+}
+
+h1 {
+    text-align: center;
+    color: #ff6347;
+    margin: 1vw 0;
+}
+
+.click {
+    display: grid;
+    justify-content: center;
+}
+
+.hero {
+    margin: 1vw 0;
+    padding: 0.8vw;
+    color: white;
+    background-color: #7289DA;
+    cursor: pointer;
+    font-size: 1.1vw;
+}
+
+.result {
+    display: flex;
+    justify-content: space-between;
+}
+.time {
+    color: #ff6347;
+}
+  
