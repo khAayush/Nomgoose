@@ -15,7 +15,7 @@ Nomgoose Counter is a simple website which allows user to input piece of text an
 - Open the `index.html` file in any browser.
 - Copy the paragraph whose reading time you want to estimate.
 - Paste it in the website.
-- Click on `Estimate Reading Time Button`
+- Click on `Estimate Reading Time` Button
 The result will be displayed on your screen.
 
 ## Snapshots
