@@ -8,7 +8,7 @@ Nomgoose Counter is a simple website which allows user to input piece of text an
 - Its output is only valid for the text written in English language.
 `Note: The output given by this program can be accurate but not precise.`
 
-##How to Use?
+## How to Use?
 - Download the zip file of the repository.
 - Unzip the zip file.
 - Open the extracted folder
@@ -16,6 +16,7 @@ Nomgoose Counter is a simple website which allows user to input piece of text an
 - Copy the paragraph whose reading time you want to estimate.
 - Paste it in the website.
 - Click on `Estimate Reading Time` Button
+
 The result will be displayed on your screen.
 
 ## Snapshots
